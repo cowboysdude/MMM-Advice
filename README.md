@@ -13,7 +13,7 @@ Works with your default language!! (You must set the title!)
 
 * `git clone https://github.com/cowboysdude/MMM-Advice` into the `~/MagicMirror/modules` directory.`
 
-**Go to MagicMirror/modules/MMM-Gas and run NPM INSTALL**
+**Go to MagicMirror/modules/MMM-Advice and run NPM INSTALL**
 
 ## Config.js entry and options
            {
