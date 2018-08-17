@@ -1,0 +1,24 @@
+{
+  "name": "mmm-advice",
+  "version": "1.1.0",
+  "main": "MMM-Advice.js",
+  "dependencies": {
+    "google-translate-api": "^2.3.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cowboysdude/MMM-Advice.git"
+  },
+  "author": "cowboysdude",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cowboysdude/MMM-Advice/issues"
+  },
+  "homepage": "https://github.com/cowboysdude/MMM-Advicereadme",
+  "description": ""
+}

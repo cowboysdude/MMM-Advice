@@ -1,0 +1,24 @@
+ 
+@font-face {
+    font-family: Herculanum;
+    src: url(modules/MMM-Advice/Herculanum-Regular.ttf);
+}
+.MMM-Advice { 
+	line-height: 9%;}
+.MMM-Advice .content {
+  width: 100%;
+  background-position: 11px 0;
+  background-repeat: no-repeat;
+  color: #fe0127;
+  
+}
+.MMM-Advice .title {
+	font-family: 'Herculanum', sans-serif;
+	color: #d8d86d;
+}
+.MMM-Advice .wrapper{
+	text-align: justify;
+}
+h3:first-letter {
+    text-transform:capitalize;
+}
