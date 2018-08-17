@@ -7,7 +7,7 @@ Advice module for MM2
 
 ![](examples/de.png) 
 
-Works with your default language!!
+Works with your default language!! (You must set the title!)
 
 ## Your terminal installation instructions
 
