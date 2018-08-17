@@ -5,6 +5,10 @@ Advice module for MM2
 
 ![](examples/Capture.PNG) 
 
+![](examples/de.png) 
+
+Works with your default language!!
+
 ## Your terminal installation instructions
 
 * `git clone https://github.com/cowboysdude/MMM-Advice` into the `~/MagicMirror/modules` directory.`
